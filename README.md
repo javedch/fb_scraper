@@ -34,4 +34,4 @@ Note: This could take days if you have lots of friends!
 **Note**: This currently gets tripped up by the following situations, because the scroll_to_bottom() function doesn't accurately detect when it's at the bottom of the friends list. Please feel free to improve with a pull request!
 - Friends that have their privacy settings to show no friends
 - Friends with just followers public
-- Rarely, some other situations
+- Rarely, some other situations# fb_scraper
